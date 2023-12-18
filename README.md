@@ -1,5 +1,5 @@
 # World-Cup-Database
-Create a World Cup PostgreSQL Database from a CSV file with Bash scripts and query the database with Shell code
+Create a World Cup psql Database from a CSV file with Bash scripts and query the database with Shell code
 
 this is a project required for relational database certification on freeCodeCamp 
 
